@@ -8,6 +8,6 @@
 - [x] Using console.log()
 - [x] Using the DOM API
 - [x] Using window.alert()
-- [ ] Using window.prompt()
+- [x] Using window.prompt()
 - [ ] Using window.confirm()
 - [ ] Using the DOM API (with graphical text: Canvas, SVG, or image file) 
