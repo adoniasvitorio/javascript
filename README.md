@@ -5,9 +5,9 @@
 
 ### Chapter 1: Getting started with JavaScript 
 
-- [x] Section 1.1: Using console.log()
-- [x] Section 1.2: Using the DOM API
-- [ ] Section 1.3: Using window.alert()
-- [ ] Section 1.4: Using window.prompt()
-- [ ] Section 1.5: Using window.confirm()
-- [ ] Section 1.6: Using the DOM API (with graphical text: Canvas, SVG, or image file) 
+- [x] Using console.log()
+- [x] Using the DOM API
+- [x] Using window.alert()
+- [ ] Using window.prompt()
+- [ ] Using window.confirm()
+- [ ] Using the DOM API (with graphical text: Canvas, SVG, or image file) 
