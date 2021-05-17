@@ -14,3 +14,10 @@ var integar = 10
 var float = 10.5
 var nan = NaN
 var infinity = Infinity
+
+//boleans
+
+var is_true = true
+var is_false = false
+
+
