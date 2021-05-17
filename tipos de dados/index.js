@@ -40,3 +40,8 @@ var is_object = {
     }
 }
 console.log(is_object)
+
+//array
+
+is_array = ['Adonias', 'Vitorio']
+console.log(is_array)
