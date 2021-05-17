@@ -28,3 +28,15 @@ var is_null = null
 
 console.log(is_undefined === is_null)
 //isto retorna falso
+
+
+//object
+
+var is_object = {
+    name: 'Adonias Vitorio',
+    Idade: 26,
+    falar: function() {
+        console.log('bla bla bla')
+    }
+}
+console.log(is_object)
