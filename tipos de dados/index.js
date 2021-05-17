@@ -21,3 +21,10 @@ var is_true = true
 var is_false = false
 
 
+//undefined e null
+
+var is_undefined = undefined
+var is_null = null
+
+console.log(is_undefined === is_null)
+//isto retorna falso
