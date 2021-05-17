@@ -10,3 +10,7 @@ var string_6 = `a soma de 2 + 2 é igual a ${2+2}. Eu tenho uma expressão dentr
 
 //numeros
 
+var integar = 10
+var float = 10.5
+var nan = NaN
+var infinity = Infinity
